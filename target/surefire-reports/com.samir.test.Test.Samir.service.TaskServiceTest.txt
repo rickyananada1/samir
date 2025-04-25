@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.samir.test.Test.Samir.service.TaskServiceTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.929 s -- in com.samir.test.Test.Samir.service.TaskServiceTest
